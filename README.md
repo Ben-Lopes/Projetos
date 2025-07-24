@@ -1,6 +1,3 @@
 # Projetos de testes automatizados em Cypress
 
-Este repositório contém testes automatizados com [Cypress].
-
-## Funcionalidades testadas:
-- Login
+Este repositório contém testes automatizados com Cypress e alguns outros arquivos.
