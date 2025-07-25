@@ -1,0 +1,4 @@
+node_modules
+downloads
+
+Não inclui o .env nesse arquivo .gitignore pois ele tem apenas valores fakes para desenvolvimento.
